@@ -1,4 +1,5 @@
 import urllib3
+import bs4
 
 class Client(object):
     
